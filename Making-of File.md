@@ -8,7 +8,7 @@ The general observation of zipcode and their corresponding number of violations 
 
 But to find the areas which are at risk due to the speed violations we should determine those areas with high average of violations, because data for some of these zip codes is recent and has less count of data.
 
-![](Images/Screenshot(86).png)
+![](Images/Screenshot(88).png)
 
 If we compare the two graphs we can see that zipcode 21869 has highest number of traffic violations but it drops to the fourth position when we consider the average number of speed violations whereas zipcode 21861 is seventh in the total number of violations but has the highest average violations overall. 
 
