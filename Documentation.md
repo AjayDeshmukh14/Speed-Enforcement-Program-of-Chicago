@@ -46,7 +46,7 @@ Revision:
 
 The final revised dashboard looks like:
 
-![](Images/Screenshot(103).png)
+![](Images/Screenshot(105).png)
 
 
 ## Weekday wise Average Violations change over the years:
@@ -70,7 +70,7 @@ Revision:
 
 The final revised dashboard looks like:
 
-![](Images/Screenshot(105).png)
+![](Images/Screenshot(103).png)
 
 
 Tableau Public Link:
