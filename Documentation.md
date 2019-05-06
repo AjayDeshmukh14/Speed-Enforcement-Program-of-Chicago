@@ -15,10 +15,10 @@ If we compare the two graphs we can see that zip code 21869 has the highest numb
 ![](Images/abc.jpg)
 
 Revision:
-* Remove gridlines: * We are just doing comparative analysis thus there is no need for gridlines, removing the gridlines will also make the graph look cleaner.
-* Creation of a Dashboard: * The creation of a dashboard helps us to show a better comparison between the two visualizations.
-* Addition of Textbox for description: * The addition of a caption gives a clearer idea of what is being portrayed in the graph. 
-* Addition of annotations: * The addition of annotations helps us understand faster on what areas should be focused on and what is trying to be portrayed in the visualizations.
+* *Remove gridlines:* We are just doing comparative analysis thus there is no need for gridlines, removing the gridlines will also make the graph look cleaner.
+* *Creation of a Dashboard:* The creation of a dashboard helps us to show a better comparison between the two visualizations.
+* *Addition of Textbox for description:* The addition of a caption gives a clearer idea of what is being portrayed in the graph. 
+* *Addition of annotations:* The addition of annotations helps us understand faster on what areas should be focused on and what is trying to be portrayed in the visualizations.
 
 The final revised dashboard looks like:
 
@@ -41,8 +41,8 @@ A better way to plot the graph would be
 We can see that the average violations for Q3 has been the highest for all the years and thus it is high for all the data.
 
 Revision: 
-* Rename Labels: * Renaming the label from 'Violation Date' to 'Quarter Number'.
-* Add Caption: * Since we are displaying limited data on this visualization.
+* *Rename Labels:* Renaming the label from 'Violation Date' to 'Quarter Number'.
+* *Add Caption:* Since we are displaying limited data on this visualization.
 
 The final revised dashboard looks like:
 
@@ -62,11 +62,11 @@ It will be interesting to see the trend for the weekday average violations over 
 As we can see the average violations for each of the weekday has been consistently decreasing, which proves the program for controlling speed violations has been successful.
 
 Revision: 
-* Rename Labels: * Renaming the label from 'Violation Date' to "Days of the week". 
-* Remove Gridlines: * If we are trying to observe the trend we do not nee the trend lines.
-* Addition of trend lines: * The addition of trendline will be a good indicator of the reducing trend, also the trend lines are really strong which is signified by the high R-squared value and low P-value. 
-* Changing Opacity: * We are trying to highlight the trend here so it is sensible to increase the opacity of the trendline and reduce the opacity for the line graph. It is imperative that we keep the line graph also because it is important to show where the trendlines are coming from and because the trendlines for all the days are almost similar.
-* Addition of Caption: * The caption gives us a fair idea of how the visualization was derived.
+* *Rename Labels:* Renaming the label from 'Violation Date' to "Days of the week". 
+* *Remove Gridlines:* If we are trying to observe the trend we do not nee the trend lines.
+* *Addition of trend lines:* The addition of trendline will be a good indicator of the reducing trend, also the trend lines are really strong which is signified by the high R-squared value and low P-value. 
+* *Changing Opacity:* We are trying to highlight the trend here so it is sensible to increase the opacity of the trendline and reduce the opacity for the line graph. It is imperative that we keep the line graph also because it is important to show where the trendlines are coming from and because the trendlines for all the days are almost similar.
+* *Addition of Caption:* The caption gives us a fair idea of how the visualization was derived.
 
 The final revised dashboard looks like:
 
